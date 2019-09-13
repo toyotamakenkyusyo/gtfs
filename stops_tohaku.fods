@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2019-09-11T19:26:16.913000000</meta:creation-date><dc:date>2019-09-13T12:52:52.665000000</dc:date><meta:editing-duration>PT6H55M28S</meta:editing-duration><meta:editing-cycles>77</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Windows_X86_64 LibreOffice_project/23edc44b61b830b7d749943e020e96f5a7df63bf</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="4289" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2019-09-11T19:26:16.913000000</meta:creation-date><dc:date>2019-09-13T15:03:04.373000000</dc:date><meta:editing-duration>PT7H8M18S</meta:editing-duration><meta:editing-cycles>81</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Windows_X86_64 LibreOffice_project/23edc44b61b830b7d749943e020e96f5a7df63bf</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="4289" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -13,8 +13,8 @@
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
-       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">14</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">316</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -23,7 +23,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">291</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -630,7 +630,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2019-09-13">0000/00/00</text:date>, <text:time style:data-style-name="N2" text:time-value="12:50:33.956000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2019-09-13">0000/00/00</text:date>, <text:time style:data-style-name="N2" text:time-value="14:53:04.683000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -9605,7 +9605,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
-      <text:p>北条町役場大栄庁舎前</text:p>
+      <text:p>北栄町大栄庁舎前</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
@@ -9643,13 +9643,13 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A227]=[.A228];[.O227];[.O227]+1)" office:value-type="float" office:value="110" calcext:value-type="float">
       <text:p>110</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A228]=[.E228];&quot;&quot;;IF([.E228]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))" office:value-type="string" office:string-value="あり" calcext:value-type="string">
-      <text:p>あり</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A228]=[.E228];&quot;&quot;;IF([.E228]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
+      <text:p/>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
-      <text:p>北条町役場大栄庁舎前</text:p>
+      <text:p>北栄町大栄庁舎前</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
@@ -9687,8 +9687,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A228]=[.A229];[.O228];[.O228]+1)" office:value-type="float" office:value="110" calcext:value-type="float">
       <text:p>110</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A229]=[.E229];&quot;&quot;;IF([.E229]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))" office:value-type="string" office:string-value="あり" calcext:value-type="string">
-      <text:p>あり</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A229]=[.E229];&quot;&quot;;IF([.E229]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
+      <text:p/>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -9778,7 +9778,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
-      <text:p>福庭北高前</text:p>
+      <text:p>倉吉北高前</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
@@ -9817,7 +9817,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
-      <text:p>福庭北高前</text:p>
+      <text:p>倉吉北高前</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
@@ -9856,7 +9856,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
-      <text:p>中電電力所前</text:p>
+      <text:p>福庭北</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
@@ -9891,13 +9891,13 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A233]=[.A234];[.O233];[.O233]+1)" office:value-type="float" office:value="113" calcext:value-type="float">
       <text:p>113</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A234]=[.E234];&quot;&quot;;IF([.E234]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))" office:value-type="string" office:string-value="あり" calcext:value-type="string">
-      <text:p>あり</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A234]=[.E234];&quot;&quot;;IF([.E234]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
+      <text:p/>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
-      <text:p>中電電力所前</text:p>
+      <text:p>福庭北</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
@@ -13170,7 +13170,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
-      <text:p>埴身入口</text:p>
+      <text:p>埴見入口</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
@@ -13202,11 +13202,11 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K316];FIND(&quot; &quot;;[.K316])+1;LEN([.K316]))" office:value-type="string" office:string-value="133.870052" calcext:value-type="string">
       <text:p>133.870052</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A315]=[.A316];[.O315];[.O315]+1)" office:value-type="float" office:value="155" calcext:value-type="float">
-      <text:p>155</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A315]=[.A316];[.O315];[.O315]+1)" office:value-type="float" office:value="154" calcext:value-type="float">
+      <text:p>154</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A316]=[.E316];&quot;&quot;;IF([.E316]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))" office:value-type="string" office:string-value="あり" calcext:value-type="string">
-      <text:p>あり</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A316]=[.E316];&quot;&quot;;IF([.E316]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
+      <text:p/>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -13243,8 +13243,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K317];FIND(&quot; &quot;;[.K317])+1;LEN([.K317]))" office:value-type="string" office:string-value="133.878191" calcext:value-type="string">
       <text:p>133.878191</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A316]=[.A317];[.O316];[.O316]+1)" office:value-type="float" office:value="156" calcext:value-type="float">
-      <text:p>156</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A316]=[.A317];[.O316];[.O316]+1)" office:value-type="float" office:value="155" calcext:value-type="float">
+      <text:p>155</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A317]=[.E317];&quot;&quot;;IF([.E317]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13284,8 +13284,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K318];FIND(&quot; &quot;;[.K318])+1;LEN([.K318]))" office:value-type="string" office:string-value="133.877815" calcext:value-type="string">
       <text:p>133.877815</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A317]=[.A318];[.O317];[.O317]+1)" office:value-type="float" office:value="156" calcext:value-type="float">
-      <text:p>156</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A317]=[.A318];[.O317];[.O317]+1)" office:value-type="float" office:value="155" calcext:value-type="float">
+      <text:p>155</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A318]=[.E318];&quot;&quot;;IF([.E318]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13322,8 +13322,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K319];FIND(&quot; &quot;;[.K319])+1;LEN([.K319]))" office:value-type="string" office:string-value="133.888396" calcext:value-type="string">
       <text:p>133.888396</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A318]=[.A319];[.O318];[.O318]+1)" office:value-type="float" office:value="157" calcext:value-type="float">
-      <text:p>157</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A318]=[.A319];[.O318];[.O318]+1)" office:value-type="float" office:value="156" calcext:value-type="float">
+      <text:p>156</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A319]=[.E319];&quot;&quot;;IF([.E319]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13361,8 +13361,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K320];FIND(&quot; &quot;;[.K320])+1;LEN([.K320]))" office:value-type="string" office:string-value="133.888374" calcext:value-type="string">
       <text:p>133.888374</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A319]=[.A320];[.O319];[.O319]+1)" office:value-type="float" office:value="157" calcext:value-type="float">
-      <text:p>157</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A319]=[.A320];[.O319];[.O319]+1)" office:value-type="float" office:value="156" calcext:value-type="float">
+      <text:p>156</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A320]=[.E320];&quot;&quot;;IF([.E320]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13402,8 +13402,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K321];FIND(&quot; &quot;;[.K321])+1;LEN([.K321]))" office:value-type="string" office:string-value="133.894537" calcext:value-type="string">
       <text:p>133.894537</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A320]=[.A321];[.O320];[.O320]+1)" office:value-type="float" office:value="158" calcext:value-type="float">
-      <text:p>158</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A320]=[.A321];[.O320];[.O320]+1)" office:value-type="float" office:value="157" calcext:value-type="float">
+      <text:p>157</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A321]=[.E321];&quot;&quot;;IF([.E321]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13443,8 +13443,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K322];FIND(&quot; &quot;;[.K322])+1;LEN([.K322]))" office:value-type="string" office:string-value="133.894779" calcext:value-type="string">
       <text:p>133.894779</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A321]=[.A322];[.O321];[.O321]+1)" office:value-type="float" office:value="158" calcext:value-type="float">
-      <text:p>158</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A321]=[.A322];[.O321];[.O321]+1)" office:value-type="float" office:value="157" calcext:value-type="float">
+      <text:p>157</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A322]=[.E322];&quot;&quot;;IF([.E322]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13484,8 +13484,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K323];FIND(&quot; &quot;;[.K323])+1;LEN([.K323]))" office:value-type="string" office:string-value="133.896949" calcext:value-type="string">
       <text:p>133.896949</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A322]=[.A323];[.O322];[.O322]+1)" office:value-type="float" office:value="159" calcext:value-type="float">
-      <text:p>159</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A322]=[.A323];[.O322];[.O322]+1)" office:value-type="float" office:value="158" calcext:value-type="float">
+      <text:p>158</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A323]=[.E323];&quot;&quot;;IF([.E323]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13525,8 +13525,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K324];FIND(&quot; &quot;;[.K324])+1;LEN([.K324]))" office:value-type="string" office:string-value="133.896682" calcext:value-type="string">
       <text:p>133.896682</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A323]=[.A324];[.O323];[.O323]+1)" office:value-type="float" office:value="159" calcext:value-type="float">
-      <text:p>159</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A323]=[.A324];[.O323];[.O323]+1)" office:value-type="float" office:value="158" calcext:value-type="float">
+      <text:p>158</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A324]=[.E324];&quot;&quot;;IF([.E324]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13566,8 +13566,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K325];FIND(&quot; &quot;;[.K325])+1;LEN([.K325]))" office:value-type="string" office:string-value="133.900597" calcext:value-type="string">
       <text:p>133.900597</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A324]=[.A325];[.O324];[.O324]+1)" office:value-type="float" office:value="160" calcext:value-type="float">
-      <text:p>160</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A324]=[.A325];[.O324];[.O324]+1)" office:value-type="float" office:value="159" calcext:value-type="float">
+      <text:p>159</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A325]=[.E325];&quot;&quot;;IF([.E325]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13610,8 +13610,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K326];FIND(&quot; &quot;;[.K326])+1;LEN([.K326]))" office:value-type="string" office:string-value="133.900910" calcext:value-type="string">
       <text:p>133.900910</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A325]=[.A326];[.O325];[.O325]+1)" office:value-type="float" office:value="160" calcext:value-type="float">
-      <text:p>160</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A325]=[.A326];[.O325];[.O325]+1)" office:value-type="float" office:value="159" calcext:value-type="float">
+      <text:p>159</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A326]=[.E326];&quot;&quot;;IF([.E326]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13651,8 +13651,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K327];FIND(&quot; &quot;;[.K327])+1;LEN([.K327]))" office:value-type="string" office:string-value="133.903998" calcext:value-type="string">
       <text:p>133.903998</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A326]=[.A327];[.O326];[.O326]+1)" office:value-type="float" office:value="161" calcext:value-type="float">
-      <text:p>161</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A326]=[.A327];[.O326];[.O326]+1)" office:value-type="float" office:value="160" calcext:value-type="float">
+      <text:p>160</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A327]=[.E327];&quot;&quot;;IF([.E327]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))" office:value-type="string" office:string-value="あり" calcext:value-type="string">
       <text:p>あり</text:p>
@@ -13692,8 +13692,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K328];FIND(&quot; &quot;;[.K328])+1;LEN([.K328]))" office:value-type="string" office:string-value="133.903916" calcext:value-type="string">
       <text:p>133.903916</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A327]=[.A328];[.O327];[.O327]+1)" office:value-type="float" office:value="161" calcext:value-type="float">
-      <text:p>161</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A327]=[.A328];[.O327];[.O327]+1)" office:value-type="float" office:value="160" calcext:value-type="float">
+      <text:p>160</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A328]=[.E328];&quot;&quot;;IF([.E328]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))" office:value-type="string" office:string-value="あり" calcext:value-type="string">
       <text:p>あり</text:p>
@@ -13733,8 +13733,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K329];FIND(&quot; &quot;;[.K329])+1;LEN([.K329]))" office:value-type="string" office:string-value="133.905549" calcext:value-type="string">
       <text:p>133.905549</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A328]=[.A329];[.O328];[.O328]+1)" office:value-type="float" office:value="162" calcext:value-type="float">
-      <text:p>162</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A328]=[.A329];[.O328];[.O328]+1)" office:value-type="float" office:value="161" calcext:value-type="float">
+      <text:p>161</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A329]=[.E329];&quot;&quot;;IF([.E329]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13767,8 +13767,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K330];FIND(&quot; &quot;;[.K330])+1;LEN([.K330]))" office:value-type="string" office:string-value="133.905549" calcext:value-type="string">
       <text:p>133.905549</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A329]=[.A330];[.O329];[.O329]+1)" office:value-type="float" office:value="162" calcext:value-type="float">
-      <text:p>162</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A329]=[.A330];[.O329];[.O329]+1)" office:value-type="float" office:value="161" calcext:value-type="float">
+      <text:p>161</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A330]=[.E330];&quot;&quot;;IF([.E330]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13811,8 +13811,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K331];FIND(&quot; &quot;;[.K331])+1;LEN([.K331]))" office:value-type="string" office:string-value="133.916953" calcext:value-type="string">
       <text:p>133.916953</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A330]=[.A331];[.O330];[.O330]+1)" office:value-type="float" office:value="163" calcext:value-type="float">
-      <text:p>163</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A330]=[.A331];[.O330];[.O330]+1)" office:value-type="float" office:value="162" calcext:value-type="float">
+      <text:p>162</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A331]=[.E331];&quot;&quot;;IF([.E331]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13845,8 +13845,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K332];FIND(&quot; &quot;;[.K332])+1;LEN([.K332]))" office:value-type="string" office:string-value="133.916953" calcext:value-type="string">
       <text:p>133.916953</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A331]=[.A332];[.O331];[.O331]+1)" office:value-type="float" office:value="163" calcext:value-type="float">
-      <text:p>163</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A331]=[.A332];[.O331];[.O331]+1)" office:value-type="float" office:value="162" calcext:value-type="float">
+      <text:p>162</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A332]=[.E332];&quot;&quot;;IF([.E332]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13886,8 +13886,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K333];FIND(&quot; &quot;;[.K333])+1;LEN([.K333]))" office:value-type="string" office:string-value="133.918716" calcext:value-type="string">
       <text:p>133.918716</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A332]=[.A333];[.O332];[.O332]+1)" office:value-type="float" office:value="164" calcext:value-type="float">
-      <text:p>164</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A332]=[.A333];[.O332];[.O332]+1)" office:value-type="float" office:value="163" calcext:value-type="float">
+      <text:p>163</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A333]=[.E333];&quot;&quot;;IF([.E333]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13927,8 +13927,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K334];FIND(&quot; &quot;;[.K334])+1;LEN([.K334]))" office:value-type="string" office:string-value="133.918283" calcext:value-type="string">
       <text:p>133.918283</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A333]=[.A334];[.O333];[.O333]+1)" office:value-type="float" office:value="164" calcext:value-type="float">
-      <text:p>164</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A333]=[.A334];[.O333];[.O333]+1)" office:value-type="float" office:value="163" calcext:value-type="float">
+      <text:p>163</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A334]=[.E334];&quot;&quot;;IF([.E334]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -13968,8 +13968,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K335];FIND(&quot; &quot;;[.K335])+1;LEN([.K335]))" office:value-type="string" office:string-value="133.920888" calcext:value-type="string">
       <text:p>133.920888</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A334]=[.A335];[.O334];[.O334]+1)" office:value-type="float" office:value="165" calcext:value-type="float">
-      <text:p>165</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A334]=[.A335];[.O334];[.O334]+1)" office:value-type="float" office:value="164" calcext:value-type="float">
+      <text:p>164</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A335]=[.E335];&quot;&quot;;IF([.E335]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -14002,8 +14002,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K336];FIND(&quot; &quot;;[.K336])+1;LEN([.K336]))" office:value-type="string" office:string-value="133.920888" calcext:value-type="string">
       <text:p>133.920888</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A335]=[.A336];[.O335];[.O335]+1)" office:value-type="float" office:value="165" calcext:value-type="float">
-      <text:p>165</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A335]=[.A336];[.O335];[.O335]+1)" office:value-type="float" office:value="164" calcext:value-type="float">
+      <text:p>164</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A336]=[.E336];&quot;&quot;;IF([.E336]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -14043,8 +14043,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K337];FIND(&quot; &quot;;[.K337])+1;LEN([.K337]))" office:value-type="string" office:string-value="133.922926" calcext:value-type="string">
       <text:p>133.922926</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A336]=[.A337];[.O336];[.O336]+1)" office:value-type="float" office:value="166" calcext:value-type="float">
-      <text:p>166</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A336]=[.A337];[.O336];[.O336]+1)" office:value-type="float" office:value="165" calcext:value-type="float">
+      <text:p>165</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A337]=[.E337];&quot;&quot;;IF([.E337]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -14084,8 +14084,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K338];FIND(&quot; &quot;;[.K338])+1;LEN([.K338]))" office:value-type="string" office:string-value="133.922814" calcext:value-type="string">
       <text:p>133.922814</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A337]=[.A338];[.O337];[.O337]+1)" office:value-type="float" office:value="166" calcext:value-type="float">
-      <text:p>166</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A337]=[.A338];[.O337];[.O337]+1)" office:value-type="float" office:value="165" calcext:value-type="float">
+      <text:p>165</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A338]=[.E338];&quot;&quot;;IF([.E338]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -14125,8 +14125,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K339];FIND(&quot; &quot;;[.K339])+1;LEN([.K339]))" office:value-type="string" office:string-value="133.925742" calcext:value-type="string">
       <text:p>133.925742</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A338]=[.A339];[.O338];[.O338]+1)" office:value-type="float" office:value="167" calcext:value-type="float">
-      <text:p>167</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A338]=[.A339];[.O338];[.O338]+1)" office:value-type="float" office:value="166" calcext:value-type="float">
+      <text:p>166</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A339]=[.E339];&quot;&quot;;IF([.E339]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>
@@ -14169,8 +14169,8 @@
      <table:table-cell table:style-name="ce1" table:formula="of:=MID([.K340];FIND(&quot; &quot;;[.K340])+1;LEN([.K340]))" office:value-type="string" office:string-value="133.925517" calcext:value-type="string">
       <text:p>133.925517</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A339]=[.A340];[.O339];[.O339]+1)" office:value-type="float" office:value="167" calcext:value-type="float">
-      <text:p>167</text:p>
+     <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A339]=[.A340];[.O339];[.O339]+1)" office:value-type="float" office:value="166" calcext:value-type="float">
+      <text:p>166</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([.A340]=[.E340];&quot;&quot;;IF([.E340]=&quot;&quot;;&quot;&quot;;&quot;あり&quot;))">
       <text:p/>

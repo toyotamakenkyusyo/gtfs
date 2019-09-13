@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2019-09-12T21:23:42.717000000</meta:creation-date><dc:date>2019-09-13T13:32:02.675000000</dc:date><meta:editing-duration>PT1H32M1S</meta:editing-duration><meta:editing-cycles>19</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Windows_X86_64 LibreOffice_project/23edc44b61b830b7d749943e020e96f5a7df63bf</meta:generator><meta:document-statistic meta:table-count="16" meta:cell-count="8084" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2019-09-12T21:23:42.717000000</meta:creation-date><dc:date>2019-09-13T15:09:43.445000000</dc:date><meta:editing-duration>PT2H43M57S</meta:editing-duration><meta:editing-cycles>27</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Windows_X86_64 LibreOffice_project/23edc44b61b830b7d749943e020e96f5a7df63bf</meta:generator><meta:document-statistic meta:table-count="16" meta:cell-count="8358" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">36124</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">24343</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">29351</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">12493</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="パークスクエア線（上り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">5</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">29</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">11</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">42</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">3</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
@@ -31,14 +31,14 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="パークスクエア線（下り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">5</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">28</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">11</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">39</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">4</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
@@ -49,17 +49,17 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="北条線（上り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">10</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">17</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">50</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">8</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">5</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -67,14 +67,14 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="北条線（下り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">32</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">8</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">35</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">6</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
@@ -85,14 +85,14 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="市内線（上り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">4</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">33</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">9</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">10</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">1</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
@@ -103,8 +103,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="市内線（下り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">32</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">9</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">40</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -121,14 +121,14 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="広瀬線（上り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">8</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">13</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">29</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">6</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
@@ -139,8 +139,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="広瀬線（下り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">8</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">7</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">29</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -149,7 +149,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">2</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">6</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -157,17 +157,17 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="松崎・北方線（上り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">10</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">15</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">50</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">5</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">7</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -175,17 +175,17 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="松崎・北方線（下り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">6</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">16</config:config-item>
        <config:config-item config:name="CursorPositionY" config:type="int">50</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">6</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">18</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">12</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -193,8 +193,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="橋津線（上り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">10</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">24</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">68</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -211,8 +211,26 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="橋津線（下り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">20</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">24</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">68</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">5</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="関金線（上り）">
+       <config:config-item config:name="CursorPositionX" config:type="int">24</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">63</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -228,27 +246,9 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
-      <config:config-item-map-entry config:name="関金線（上り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">5</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">28</config:config-item>
-       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
-       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
-       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">27</config:config-item>
-       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
-       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
-       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
-       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
-      </config:config-item-map-entry>
       <config:config-item-map-entry config:name="関金線（下り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">54</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">23</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">64</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -257,7 +257,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">27</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -265,17 +265,17 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="関金線（山口上り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">10</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">13</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">54</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">6</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">12</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -283,17 +283,17 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="関金線（山口下り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">5</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">30</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">11</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">41</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">4</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">15</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -301,7 +301,7 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">市内線（上り）</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">松崎・北方線（上り）</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1088</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
@@ -367,7 +367,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -455,6 +457,9 @@
   <style:style style:name="ro3" style:family="table-row">
    <style:table-row-properties style:row-height="0.1874in" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
+  <style:style style:name="ro4" style:family="table-row">
+   <style:table-row-properties style:row-height="0.2189in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
@@ -505,7 +510,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2019-09-13">0000/00/00</text:date>, <text:time style:data-style-name="N2" text:time-value="13:11:31.335000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2019-09-13">0000/00/00</text:date>, <text:time style:data-style-name="N2" text:time-value="13:37:04.469000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -851,7 +856,10 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -3107,7 +3115,10 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -3814,7 +3825,10 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -9358,7 +9372,10 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -9942,7 +9959,10 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -12266,7 +12286,10 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -12557,7 +12580,10 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -13569,7 +13595,10 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -13846,7 +13875,10 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -14699,7 +14731,10 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -14748,35 +14783,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>倉吉駅発</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>河北中学校前</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>海田</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>倉吉バスセンター・中央自動車学校</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048544">
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048548">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -14940,8 +14947,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>西倉吉</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -14979,8 +14986,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>岡田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15018,8 +15025,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>河原町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15057,8 +15064,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>広瀬町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15096,8 +15103,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>福吉町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15135,8 +15142,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>新町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15174,8 +15181,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>赤瓦・白壁土蔵</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15213,8 +15220,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>堺町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15252,8 +15259,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宮川町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15291,8 +15298,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>倉吉パークスクエア北口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15330,8 +15337,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>厚生病院前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15369,8 +15376,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>総合事務所前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15408,8 +15415,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>八ツ屋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15447,8 +15454,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>伊木</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15486,8 +15493,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>山根パープルタウン前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15525,7 +15532,10 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
@@ -15564,7 +15574,10 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉駅</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉駅着</text:p>
      </table:table-cell>
@@ -15606,7 +15619,10 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉駅</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉駅発</text:p>
      </table:table-cell>
@@ -15648,8 +15664,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>河北中学校前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15687,8 +15703,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>海田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15726,8 +15742,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>倉吉バスセンター</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15765,8 +15781,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>人材育成センター前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15804,8 +15820,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>新田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15843,8 +15859,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>中江</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15882,8 +15898,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>大塚</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15921,8 +15937,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>天神橋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15960,8 +15976,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>江北</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -15999,8 +16015,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>西みどり団地入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16038,8 +16054,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>国坂東口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16077,8 +16093,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>国坂</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16116,8 +16132,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>田井</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16155,8 +16171,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>弓原</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16194,8 +16210,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>下北条駅前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16233,8 +16249,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>下神</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16272,8 +16288,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>松神</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16311,8 +16327,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>東園</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16350,8 +16366,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>東園入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16389,8 +16405,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>西園</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16428,8 +16444,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>由良新橋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16467,8 +16483,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>北栄町大栄庁舎前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16506,8 +16522,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>由良駅入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16707,8 +16723,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>由良駅入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16746,8 +16762,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>北栄町大栄庁舎前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16785,8 +16801,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>由良新橋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16824,8 +16840,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>西園</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16863,8 +16879,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>東園入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16902,8 +16918,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>東園</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16941,8 +16957,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>松神</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -16980,8 +16996,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>下神</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17019,8 +17035,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>下北条駅前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17058,8 +17074,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>弓原</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17097,8 +17113,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>田井</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17136,8 +17152,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>国坂</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17175,8 +17191,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>国坂東口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17214,8 +17230,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>西みどり団地入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17253,8 +17269,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>江北</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17292,8 +17308,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>天神橋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17331,8 +17347,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>大塚</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17371,8 +17387,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>中江</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17411,8 +17427,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>新田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17450,8 +17466,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>人材育成センター前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17489,8 +17505,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>倉吉バスセンター</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17528,8 +17544,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>海田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17567,8 +17583,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>河北中学校前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17606,7 +17622,10 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉駅</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉駅着</text:p>
      </table:table-cell>
@@ -17648,7 +17667,10 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉駅</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉駅発</text:p>
      </table:table-cell>
@@ -17690,7 +17712,10 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
@@ -17729,8 +17754,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>山根パープルタウン前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17768,8 +17793,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>伊木</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17807,8 +17832,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>八ツ屋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17846,8 +17871,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>総合事務所前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17885,8 +17910,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>厚生病院前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17924,8 +17949,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>倉吉パークスクエア北口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -17963,8 +17988,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宮川町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18002,8 +18027,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>堺町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18041,8 +18066,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>赤瓦・白壁土蔵</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18080,8 +18105,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>新町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18119,8 +18144,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>福吉町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18158,8 +18183,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>広瀬町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18197,8 +18222,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>河原町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18236,8 +18261,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>岡田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18275,8 +18300,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>西倉吉</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18588,8 +18613,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>西倉吉</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18648,8 +18673,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>岡田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18708,8 +18733,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>河原町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18768,8 +18793,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>広瀬町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18828,8 +18853,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>福吉町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18888,8 +18913,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>新町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -18948,8 +18973,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>赤瓦・白壁土蔵</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19008,8 +19033,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>堺町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19068,8 +19093,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宮川町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19128,8 +19153,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>倉吉パークスクエア北口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19188,8 +19213,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>厚生病院前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19248,8 +19273,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>総合事務所前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19308,8 +19333,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>八ツ屋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19368,8 +19393,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>伊木</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19428,7 +19453,10 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>山根パープルタウン前</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>山根ﾊﾟｰﾌﾟﾙタウン前</text:p>
      </table:table-cell>
@@ -19488,8 +19516,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>上井町一丁目西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19548,7 +19576,10 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉駅</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉駅　着</text:p>
      </table:table-cell>
@@ -19611,7 +19642,10 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉駅</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉駅　発</text:p>
      </table:table-cell>
@@ -19674,8 +19708,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>河北中学校前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19734,8 +19768,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>海田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19794,7 +19828,10 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉バスセンター</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉ﾊﾞｽｾﾝﾀｰ</text:p>
      </table:table-cell>
@@ -19854,8 +19891,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>倉吉北高前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19914,8 +19951,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>福庭北</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -19974,8 +20011,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>清谷</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20034,8 +20071,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>田後入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20094,8 +20131,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>田後</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20154,8 +20191,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>北溟中学校前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20214,8 +20251,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>長瀬西口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20274,8 +20311,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>湯梨浜町役場前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20321,8 +20358,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>ハワイアロハホール</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20357,8 +20394,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>長江入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20393,8 +20430,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>上浅津入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20429,8 +20466,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>上浅津</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20465,15 +20502,11 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>はわい温泉</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>下り</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="Default"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>8:32</text:p>
@@ -20501,8 +20534,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>ハワイゆ～たうん前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20537,15 +20570,11 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>運転免許試験場</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>下り</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="Default"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>8:35</text:p>
@@ -20573,8 +20602,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>臨海公園前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20609,8 +20638,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>羽合ひかり園前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20645,8 +20674,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>衛生環境研究所前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20681,8 +20710,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>南谷大橋南側</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20717,8 +20746,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>上橋津</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20753,8 +20782,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>橋津藩倉入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20789,8 +20818,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>久留西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20836,8 +20865,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>長瀬東口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20883,8 +20912,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>橋津中央入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20930,8 +20959,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>橋津東口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -20990,8 +21019,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>ハワイ海水浴場前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -21050,8 +21079,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>三軒屋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -21110,8 +21139,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宇野西口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -21170,8 +21199,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宇野東口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -21230,8 +21259,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宇谷</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -21290,8 +21319,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宇谷東口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -21350,8 +21379,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>原入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -21410,8 +21439,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>泊駅前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -21470,8 +21499,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>泊庁舎前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -21530,8 +21559,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>恐竜広場前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -21590,8 +21619,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>石脇</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -21650,8 +21679,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>石脇車庫</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
@@ -21706,8 +21735,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>小浜</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -21984,8 +22013,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>小浜</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22025,8 +22054,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>石脇車庫</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
@@ -22081,8 +22110,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>石脇</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22141,8 +22170,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>恐竜広場前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22201,8 +22230,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>泊庁舎前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22261,8 +22290,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>泊駅前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22321,8 +22350,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>原入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22381,8 +22410,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宇谷東口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22441,8 +22470,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宇谷</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22501,8 +22530,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宇野東口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22561,8 +22590,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宇野西口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22621,8 +22650,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>三軒屋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22681,8 +22710,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>ハワイ海水浴場前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22741,8 +22770,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>橋津東口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22801,8 +22830,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>橋津中央入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22843,8 +22872,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>長瀬東口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22885,8 +22914,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>久留西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22928,8 +22957,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>湯梨浜町役場前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -22971,8 +23000,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>橋津藩倉入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23012,8 +23041,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>上橋津</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23053,8 +23082,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>南谷大橋南側</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23094,8 +23123,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>衛生環境研究所前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23135,8 +23164,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>羽合ひかり園前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23176,8 +23205,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>臨海公園前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23218,14 +23247,11 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>運転免許試験場</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>上り</text:p>
-     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="Default"/>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -23260,8 +23286,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>ハワイゆ～たうん前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23301,15 +23327,11 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>はわい温泉</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>上り</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6:50</text:p>
      </table:table-cell>
@@ -23342,8 +23364,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>上浅津</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23383,8 +23405,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>上浅津入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23424,8 +23446,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>長江入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23465,8 +23487,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>ハワイアロハホール</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23506,8 +23528,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>長瀬西口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23566,8 +23588,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>北溟中学校前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23626,8 +23648,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>田後</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23686,8 +23708,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>田後入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23746,8 +23768,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>清谷</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23806,8 +23828,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>福庭北</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23866,8 +23888,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>倉吉北高前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -23926,7 +23948,10 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉バスセンター</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉ﾊﾞｽｾﾝﾀｰ</text:p>
      </table:table-cell>
@@ -23986,8 +24011,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>海田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24046,8 +24071,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>河北中学校前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24106,7 +24131,10 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉駅</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉駅　着</text:p>
      </table:table-cell>
@@ -24169,7 +24197,10 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉駅</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉駅　発</text:p>
      </table:table-cell>
@@ -24232,8 +24263,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>上井町一丁目西</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24292,7 +24323,10 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>山根パープルタウン前</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>山根ﾊﾟｰﾌﾟﾙタウン前</text:p>
      </table:table-cell>
@@ -24352,8 +24386,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>伊木</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24412,8 +24446,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>八ツ屋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24472,8 +24506,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>総合事務所前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24532,8 +24566,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>厚生病院前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24592,8 +24626,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>倉吉パークスクエア北口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24652,8 +24686,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宮川町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24712,8 +24746,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>堺町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24772,8 +24806,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>赤瓦・白壁土蔵</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24832,8 +24866,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>新町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24892,8 +24926,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>福吉町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -24952,8 +24986,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>広瀬町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25012,8 +25046,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>河原町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25072,8 +25106,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>岡田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25132,8 +25166,8 @@
      <table:table-cell table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>西倉吉</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25356,8 +25390,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>西倉吉</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25390,8 +25424,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>岡田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25423,8 +25457,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>河原町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25456,8 +25490,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>広瀬町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25489,8 +25523,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>福吉町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25522,8 +25556,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>新町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25555,8 +25589,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>赤瓦・白壁土蔵</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25588,8 +25622,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>堺町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25621,8 +25655,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宮川町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25654,8 +25688,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>倉吉パークスクエア北口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25687,8 +25721,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>厚生病院前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25720,8 +25754,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>総合事務所前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25753,8 +25787,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>八ツ屋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25786,8 +25820,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>伊木</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25819,8 +25853,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>山根パープルタウン前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -25852,7 +25886,10 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
@@ -25885,7 +25922,10 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉駅</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉駅着</text:p>
      </table:table-cell>
@@ -25921,7 +25961,10 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉駅</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉駅発</text:p>
      </table:table-cell>
@@ -25956,8 +25999,11 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
-     <table:table-cell table:number-columns-repeated="3"/>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目東</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町1丁目東</text:p>
      </table:table-cell>
@@ -25990,8 +26036,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>山根入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26023,8 +26069,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>倉吉病院前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26056,8 +26102,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>佐美</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26089,8 +26135,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>埴見入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26122,8 +26168,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>長和田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26155,8 +26201,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>野花</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26188,8 +26234,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>引地</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26221,8 +26267,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>東郷橋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26254,8 +26300,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>松崎駅前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26287,8 +26333,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>松崎幼稚園入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26320,8 +26366,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>藤津入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26353,8 +26399,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>白石入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26386,8 +26432,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>舎人</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26419,8 +26465,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>漆原</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26452,8 +26498,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>北方入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26488,8 +26534,8 @@
      <table:table-cell table:number-columns-repeated="1007"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>原</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26503,8 +26549,8 @@
      <table:table-cell table:number-columns-repeated="1014"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>原入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26518,8 +26564,8 @@
      <table:table-cell table:number-columns-repeated="1014"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>泊駅前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26533,8 +26579,8 @@
      <table:table-cell table:number-columns-repeated="1014"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>泊庁舎前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26548,8 +26594,8 @@
      <table:table-cell table:number-columns-repeated="1014"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>恐竜広場前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26563,8 +26609,8 @@
      <table:table-cell table:number-columns-repeated="1014"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>石脇</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26578,8 +26624,8 @@
      <table:table-cell table:number-columns-repeated="1014"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>石脇車庫</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26754,8 +26800,8 @@
      <table:table-cell table:number-columns-repeated="1006"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>石脇車庫</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
@@ -26765,8 +26811,8 @@
      <table:table-cell table:number-columns-repeated="1013"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>石脇</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26780,8 +26826,8 @@
      <table:table-cell table:number-columns-repeated="1013"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>恐竜広場前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26795,8 +26841,8 @@
      <table:table-cell table:number-columns-repeated="1013"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>泊庁舎前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26810,8 +26856,8 @@
      <table:table-cell table:number-columns-repeated="1013"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>泊駅前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26825,8 +26871,8 @@
      <table:table-cell table:number-columns-repeated="1013"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>原入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26840,8 +26886,8 @@
      <table:table-cell table:number-columns-repeated="1013"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>原</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26857,8 +26903,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>北方入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26890,8 +26936,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>漆原</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26923,8 +26969,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>舎人</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26956,8 +27002,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>白石入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -26989,8 +27035,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>藤津入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27022,8 +27068,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>松崎幼稚園入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27055,8 +27101,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>松崎駅前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27088,8 +27134,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>東郷橋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27121,8 +27167,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>引地</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27154,8 +27200,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>野花</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27188,8 +27234,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>長和田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27222,8 +27268,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>埴見入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27255,8 +27301,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>佐美</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27288,8 +27334,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>倉吉病院前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27321,8 +27367,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>山根入口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27354,7 +27400,10 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目東</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町1丁目東</text:p>
      </table:table-cell>
@@ -27387,7 +27436,10 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉駅</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉駅着</text:p>
      </table:table-cell>
@@ -27423,7 +27475,10 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>倉吉駅</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>倉吉駅発</text:p>
      </table:table-cell>
@@ -27459,7 +27514,10 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>上井町一丁目西</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>上井町１丁目西</text:p>
      </table:table-cell>
@@ -27492,8 +27550,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>山根パープルタウン前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27525,8 +27583,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>伊木</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27558,8 +27616,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>八ツ屋</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27591,8 +27649,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>総合事務所前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27624,8 +27682,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>厚生病院前</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27657,8 +27715,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>倉吉パークスクエア北口</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27690,8 +27748,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>宮川町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27723,8 +27781,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>堺町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27756,8 +27814,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>赤瓦・白壁土蔵</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27789,8 +27847,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>新町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27822,8 +27880,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>福吉町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27855,8 +27913,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>広瀬町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27888,8 +27946,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>河原町</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27921,8 +27979,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>岡田</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -27954,8 +28012,8 @@
      <table:table-cell table:number-columns-repeated="1008"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>西倉吉</text:p>
      </table:table-cell>
      <table:table-cell/>
