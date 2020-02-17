@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2019-09-12T21:23:42.717000000</meta:creation-date><dc:date>2020-02-17T21:43:31.683000000</dc:date><meta:editing-duration>PT3H43M35S</meta:editing-duration><meta:editing-cycles>41</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Windows_X86_64 LibreOffice_project/23edc44b61b830b7d749943e020e96f5a7df63bf</meta:generator><meta:document-statistic meta:table-count="16" meta:cell-count="8451" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2019-09-12T21:23:42.717000000</meta:creation-date><dc:date>2020-02-17T22:36:24.959000000</dc:date><meta:editing-duration>PT3H44M37S</meta:editing-duration><meta:editing-cycles>42</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Windows_X86_64 LibreOffice_project/23edc44b61b830b7d749943e020e96f5a7df63bf</meta:generator><meta:document-statistic meta:table-count="16" meta:cell-count="8451" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">56444</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">32922</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">36124</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">24794</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -175,8 +175,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="松崎・北方線（下り）">
-       <config:config-item config:name="CursorPositionX" config:type="int">9</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">13</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">11</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">10</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -185,7 +185,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">10</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">6</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -301,7 +301,7 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">松崎・北方線（上り）</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">松崎・北方線（下り）</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">801</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
@@ -467,6 +467,7 @@
    <number:text-content/>
   </number:text-style>
   <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100"/>
+  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100"/>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties style:writing-mode="lr-tb"/>
    <style:header-style>
@@ -507,7 +508,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2020-02-17">0000/00/00</text:date>, <text:time style:data-style-name="N2" text:time-value="20:45:30.529000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2020-02-17">0000/00/00</text:date>, <text:time style:data-style-name="N2" text:time-value="22:35:25.178000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -521,7 +522,7 @@
   <office:spreadsheet>
    <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
    <table:table table:name="広瀬線（下り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -1921,7 +1922,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="広瀬線（上り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -3294,7 +3295,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="関金線（下り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -6517,7 +6518,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="関金線（上り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -9798,7 +9799,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="関金線（山口下り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -11192,7 +11193,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="関金線（山口上り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -12547,7 +12548,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="パークスクエア線（下り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -13188,7 +13189,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="パークスクエア線（上り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -13802,7 +13803,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="市内線（下り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -14391,7 +14392,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="市内線（上り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -14936,7 +14937,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="北条線（下り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -16745,7 +16746,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="北条線（上り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -18594,7 +18595,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="橋津線（下り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -22024,7 +22025,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="橋津線（上り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -25541,7 +25542,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="松崎・北方線（下り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
@@ -25711,7 +25712,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:27</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>10:57</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>11:57</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -25741,7 +25745,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:28</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>10:58</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>11:58</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -25771,7 +25778,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:29</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>10:59</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>11:59</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -25801,7 +25811,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:30</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:00</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:00</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -25831,7 +25844,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:31</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:01</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:01</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -25861,7 +25877,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:32</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:02</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:02</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -25891,7 +25910,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:33</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:03</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:03</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -25921,7 +25943,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:35</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:05</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:05</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -25951,7 +25976,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:36</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:06</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:06</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -25981,7 +26009,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:37</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:07</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:07</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26011,7 +26042,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:38</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:08</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:08</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26041,7 +26075,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:40</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:10</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26071,7 +26108,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:41</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:11</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:11</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26101,7 +26141,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:42</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:12</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26131,7 +26174,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:43</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:13</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:13</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26164,7 +26210,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:44</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:14</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:14</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26200,7 +26249,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:45</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:15</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26236,7 +26288,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:50</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:20</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26269,7 +26324,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:51</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:21</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26299,7 +26357,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:51</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:21</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26329,7 +26390,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:52</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:22</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26359,7 +26423,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:54</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:24</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26389,7 +26456,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:55</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:25</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26419,7 +26489,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:57</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:27</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26449,7 +26522,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>08:59</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:29</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26479,7 +26555,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>09:00</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:30</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26509,7 +26588,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>09:00</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:30</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26539,7 +26621,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>09:01</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:31</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:31</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26569,7 +26654,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>09:02</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:32</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:32</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26599,7 +26687,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>09:03</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:33</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:33</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26629,7 +26720,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>09:04</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:34</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:34</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26659,7 +26753,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>09:05</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:35</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:35</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26689,7 +26786,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>09:05</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:35</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:35</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26722,7 +26822,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>09:06</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11:36</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12:36</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -26855,7 +26958,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="松崎・北方線（上り）" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce3"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>route_id</text:p>
