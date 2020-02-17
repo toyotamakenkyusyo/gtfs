@@ -1,2 +1,0 @@
-﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang
-3270001000564_0,日本交通株式会社,http://www.nihonkotsu.co.jp/,Asia/Tokyo,ja
