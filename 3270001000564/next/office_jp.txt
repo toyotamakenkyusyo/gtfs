@@ -1,2 +1,0 @@
-﻿office_id,office_name
-倉吉営業所,倉吉営業所
