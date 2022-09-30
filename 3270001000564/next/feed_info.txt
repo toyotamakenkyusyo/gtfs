@@ -1,2 +1,0 @@
-﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-豐多摩研究所,https://ss1.xrea.com/toyotama.g1.xrea.com/index.xhtml,ja,20221001,20230331,20221001_20220914
